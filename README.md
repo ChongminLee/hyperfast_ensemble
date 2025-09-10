@@ -74,14 +74,3 @@ hyperfast_ensemble_repo/
 - If `hyperfast` is unavailable on your system, the wrapper **falls back** to a prototype (nearest-centroid-like) classifier in PCA space so that the ensemble still runs end-to-end.
 - For transparency and speed, we keep hyperparameter grids modest by default; expand as needed for thorough sweeps.
 
-## Citation
-If you use this repository, please cite the paper (add final bib) and this codebase:
-
-```
-@software{hyperfast_ensemble_code,
-  title        = {Provably_Robust_Pre_Trained_Ensembles_for_Biomarker_Based_Cancer_Classification_Main},
-  author       = {Lee, Chongmin and Kim, Jihie},
-  year         = {2025},
-  url          = {https://anonymous.4open.science/r/hyperfast_ensemble-14BC/}
-}
-```
