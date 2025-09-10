@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Hyperfast + Boosted Trees Ensemble for Biomarker-Based Cancer Classification"
+authors:
+  - family-names: Lee
+    given-names: Chongmin
+  - family-names: Kim
+    given-names: Jihie
+date-released: 2025-09-10
+repository-code: "https://anonymous.4open.science/r/hyperfast_ensemble-14BC/"
+message: "If you use this code, please cite the associated paper."
